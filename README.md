@@ -8,7 +8,7 @@
  - Desenvolvedores
 
 ## Descrição do projeto
-Esse projeto tem como objetivo o treinamento de Inteligências Artificiais capazes de fazer novas previsões. Apesar de o desenvolvimento do projeto ser baseado em um exemplo específico, a mesma lógica pode se aplicar a outros exemplos.
+Esse projeto tem como objetivo o treinamento de Inteligências Artificiais capazes de fazer novas previsões. Apesar do desenvolvimento do projeto ser baseado em um exemplo específico, a mesma lógica pode se aplicar a outros exemplos.
 
 ## Simulação do projeto
 Como caso específico do projeto tivemos um treinamento de uma IA capaz de prever Score de Crédito dos Clientes de um Banco.
@@ -32,6 +32,7 @@ O desenvolvimento do projeto foi inspirado em uma aula da Jornada Python, promov
 ## Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/228969646?v=4" width=115><br><sub>Yasmim Santos</sub>](https://github.com/yasmimacs)
    
+
 
 
 
